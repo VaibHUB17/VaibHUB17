@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/vaibhav-shivhare17/" target="_blank">
         <img src="https://img.shields.io/badge/Open%20to-roles-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to roles" />
     </a>
-    <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <a href="resume__vaibhav.pdf" target="_blank" download>
         <img src="https://img.shields.io/badge/Resume-Download-1f2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume available" />
     </a>
 </p>
