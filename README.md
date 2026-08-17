@@ -27,7 +27,7 @@ I'm a software engineer who builds production backend systems and AI-integrated 
 
 ## Featured Project
 
-**[STOCK MARTET MCP Server](#)** — a production-grade MCP server with 10 AI-integrated tools for real-time stock data and trading signals (<500ms latency), including a virtual trading engine with P&L tracking and a custom Black-Scholes options pricer with full Greeks. Built LLM-based prompt pipelines for financial signal generation via agentic AI tools.
+**[STOCK MARKET MCP Server](#)** — a production-grade MCP server with 10 AI-integrated tools for real-time stock data and trading signals (<500ms latency), including a virtual trading engine with P&L tracking and a custom Black-Scholes options pricer with full Greeks. Built LLM-based prompt pipelines for financial signal generation via agentic AI tools.
 *This is the project I'm proudest of — happy to walk through the architecture and design decisions.*
 
 ## Tech Stack
