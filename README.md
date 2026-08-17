@@ -1,7 +1,7 @@
 # Vaibhav Shivhare
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+MERN+Stack;Building+scalable+web+apps+with+clean+UX+and+solid+APIs;Open+to+Full+Stack+and+Software+Engineering+roles" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI-Integrated+Systems+%7C+Full+Stack;Building+production+APIs%2C+agentic+tools%2C+and+scalable+backends;Open+to+Software+Engineering+and+AI-Integration+roles" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,12 +18,17 @@
 
 ## About Me
 
-I am a software engineer and full stack developer focused on building reliable, fast, and user-friendly web applications.
+I'm a software engineer who builds production backend systems and AI-integrated tooling — from REST APIs to a full MCP server with agentic AI tools. I care about system design, clean architecture, and shipping things that actually hold up under real usage.
 
-- Full stack developer with a MERN-first mindset
-- Comfortable working across product, API, database, and deployment layers
-- Actively seeking opportunities in software engineering, full stack development, and backend-heavy web development
-- I care about performance, maintainability, and clean UI execution
+- Backend-leaning full stack developer (Next.js, Node.js, TypeScript, PostgreSQL) with hands-on experience building **agentic AI tooling** via the Model Context Protocol
+- Comfortable across the full stack — product, API, database, and deployment layers
+- Currently deepening system design skills: scalability, failure modes, and architecture trade-offs
+- Actively seeking roles in **Software Engineering**, **Backend Engineering**, and **AI-integrated systems**
+
+## Featured Project
+
+**[STOCK MARTET MCP Server](#)** — a production-grade MCP server with 10 AI-integrated tools for real-time stock data and trading signals (<500ms latency), including a virtual trading engine with P&L tracking and a custom Black-Scholes options pricer with full Greeks. Built LLM-based prompt pipelines for financial signal generation via agentic AI tools.
+*This is the project I'm proudest of — happy to walk through the architecture and design decisions.*
 
 ## Tech Stack
 
@@ -33,6 +38,7 @@ I am a software engineer and full stack developer focused on building reliable, 
 
 <p align="center">
     <img src="https://img.shields.io/badge/MERN-Stack-10b981?style=flat-square&logo=react&logoColor=white" alt="MERN" />
+    <img src="https://img.shields.io/badge/MCP-Agentic%20AI-6d28d9?style=flat-square&logo=OpenAI&logoColor=white" alt="MCP / Agentic AI" />
     <img src="https://img.shields.io/badge/REST%20APIs-Backend-0f172a?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
     <img src="https://img.shields.io/badge/PostgreSQL-Database-2563eb?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Testing-pytest-7c3aed?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
@@ -42,12 +48,16 @@ I am a software engineer and full stack developer focused on building reliable, 
 
 <table>
     <tr>
-        <td><strong>Frontend</strong></td>
-        <td>React, Next.js, TypeScript, Tailwind CSS, Redux, responsive UI, component-driven development</td>
+        <td><strong>AI-Integrated Systems</strong></td>
+        <td>MCP server development, agentic AI tools, LLM-based prompt pipelines, real-time data integration</td>
     </tr>
     <tr>
         <td><strong>Backend</strong></td>
-        <td>Node.js, Express.js, REST APIs, microservices, authentication, structured logging</td>
+        <td>Node.js, Express.js, REST APIs, microservices, authentication, structured logging, SQL optimization</td>
+    </tr>
+    <tr>
+        <td><strong>Frontend</strong></td>
+        <td>React, Next.js, TypeScript, Tailwind CSS, Redux, responsive UI, component-driven development</td>
     </tr>
     <tr>
         <td><strong>Databases</strong></td>
@@ -64,9 +74,10 @@ I am a software engineer and full stack developer focused on building reliable, 
 I am open to opportunities in:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge" alt="Full Stack Developer" />
     <img src="https://img.shields.io/badge/Software%20Engineer-111827?style=for-the-badge" alt="Software Engineer" />
-    <img src="https://img.shields.io/badge/MERN%20Developer-111827?style=for-the-badge" alt="MERN Developer" />
+    <img src="https://img.shields.io/badge/Backend%20Engineer-111827?style=for-the-badge" alt="Backend Engineer" />
+    <img src="https://img.shields.io/badge/AI--Integrated%20Systems-111827?style=for-the-badge" alt="AI-Integrated Systems" />
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge" alt="Full Stack Developer" />
 </p>
 
 ## Resume Snapshot & Contact
@@ -74,15 +85,15 @@ I am open to opportunities in:
 <table>
     <tr>
         <td><strong>Software Engineer</strong></td>
-        <td>Full stack developer focused on MERN, Next.js, TypeScript, and scalable backend systems.</td>
+        <td>Backend-leaning full stack developer building AI-integrated systems, scalable APIs, and agentic tooling.</td>
     </tr>
     <tr>
         <td><strong>Impact</strong></td>
-        <td>Shipped customer-facing features, optimized dashboards, and built APIs and test coverage for production use.</td>
+        <td>Shipped customer-facing features, optimized dashboards (40% faster load times), and built a production MCP server with real-time AI-integrated tools.</td>
     </tr>
     <tr>
         <td><strong>Open To</strong></td>
-        <td>Full stack, software engineering, and backend-heavy product roles.</td>
+        <td>Software engineering, backend engineering, and AI-integrated systems roles.</td>
     </tr>
 </table>
 
