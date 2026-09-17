@@ -28,7 +28,12 @@ I'm a software engineer who builds production backend systems and AI-integrated 
 ## Featured Project
 
 **[STOCK MARKET MCP Server](#)** — a production-grade MCP server with 10 AI-integrated tools for real-time stock data and trading signals (<500ms latency), including a virtual trading engine with P&L tracking and a custom Black-Scholes options pricer with full Greeks. Built LLM-based prompt pipelines for financial signal generation via agentic AI tools.
-*This is the project I'm proudest of — happy to walk through the architecture and design decisions.*
+
+**[Mughshot-AI](#)** —Cryptographic Face Trace & Blockchain Registry, Scan a face, trace where it appears on the public web and social media, and seal the finding onto a blockchain as an immutable, tamper-evident record.
+
+**[Eventra](#)** —Eventra is a full-stack, real-time event ticketing and queue management platform. It features a fair waiting-list queue system with time-limited ticket offers, instant user sync, automated background task scheduling, seller payout routing, and automated event refunds.
+
+
 
 ## Tech Stack
 
